@@ -1,5 +1,6 @@
 class ProjectUtils {
   static const List<String> banners = [
+    "assets/projects/resala.png",
     "assets/projects/quran.jpg",
     "assets/projects/dash.jpg",
     "assets/projects/back.jpg",
@@ -8,6 +9,7 @@ class ProjectUtils {
   ];
 
   static const List<String> icons = [
+    "assets/projects/resala-icon.png",
     "assets/projects/quran-icon.png",
     "assets/projects/dash-icon.png",
     "assets/projects/back-icon.png",
@@ -16,6 +18,7 @@ class ProjectUtils {
   ];
 
   static const List<String> titles = [
+    "Resala",
     "Al-Quran",
     "Dash App",
     "backPack UI KIT",
@@ -24,6 +27,7 @@ class ProjectUtils {
   ];
 
   static const List<String> description = [
+    "Application of Resala ORG ,Resala.org Developed using Flutter",
     "Al-Qur’an helps you to read the surahs and verses wherever you go and remember the times of prayer with determining the direction of the qiblah, radio station.",
     "dash is a Food Delivery app for Hungery people who needs to eat in anytime, check the repo, i've built it with flutter to mobile app, and backend with Laravel.",
     "Backpack is a traveling app clean and modern feel, It includes customizable screens across categories like Social Feed, Messaging, Music, Book Trips, and Buying Tickets.",
@@ -32,6 +36,7 @@ class ProjectUtils {
   ];
 
   static const List<String> links = [
+    "https://github.com/abdalla3yash/resala",
     "https://github.com/abdalla3yash/Al-Quran",
     "https://github.com/abdalla3yash/dash",
     "https://github.com/abdalla3yash/backpackUI",

@@ -40,7 +40,7 @@ class StaticUtils {
     "https://twitter.com/3yashh",
     "https://linkedin.com/in/abdalla-ayash/",
     "https://github.com/abdalla3yash",
-    "https://wa.me/201091032414"
+    "https://wa.me/+971526186110"
   ];
 
   static const String resume =
