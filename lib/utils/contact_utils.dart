@@ -14,8 +14,8 @@ class ContactUtils {
   ];
 
   static const List<String> details = [
-    "Dubai, UAE",
-    "(+971) 52 618 6110",
+    "Cairo, Egypt",
+    "(+20) 1091032414",
     "abdo3yash@gmail.com",
   ];
 }

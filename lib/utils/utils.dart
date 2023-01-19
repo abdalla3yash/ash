@@ -29,7 +29,7 @@ class StaticUtils {
 
   static const List<String> socialIconURL = [
     "https://img.icons8.com/ios-glyphs/480/ffffff/instagram-new.png",
-    "https://img.icons8.com/android/480/ffffff/twitter.png",
+    // "https://img.icons8.com/android/480/ffffff/twitter.png",
     "https://img.icons8.com/metro/308/ffffff/linkedin.png",
     "https://img.icons8.com/material-rounded/384/ffffff/github.png",
     "https://img.icons8.com/ios-filled/344/whatsapp--v1.png"
@@ -37,10 +37,10 @@ class StaticUtils {
 
   static const List<String> socialLinks = [
     "https://instagram.com/a_3yash",
-    "https://twitter.com/3yashh",
+    // "https://twitter.com/3yashh",
     "https://linkedin.com/in/abdalla-ayash/",
     "https://github.com/abdalla3yash",
-    "https://wa.me/+971526186110"
+    "https://wa.me/+201091032414"
   ];
 
   static const String resume =
