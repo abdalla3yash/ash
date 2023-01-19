@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:ayash/configs/configs.dart';
 import 'package:ayash/utils/utils.dart';
 import 'package:ayash/widget/social_links.dart';
-import 'package:lottie/lottie.dart';
 
 class HomeMobile extends StatelessWidget {
   const HomeMobile({Key? key}) : super(key: key);

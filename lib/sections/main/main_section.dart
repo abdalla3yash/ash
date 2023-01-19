@@ -1,4 +1,3 @@
-import 'package:ayash/animations/entrance_fader.dart';
 import 'package:ayash/configs/app.dart';
 import 'package:ayash/configs/configs.dart';
 import 'package:ayash/provider/app_provider.dart';
@@ -10,9 +9,7 @@ import 'package:ayash/utils/utils.dart';
 import 'package:ayash/widget/navbar_actions_button.dart';
 import 'package:ayash/widget/navbar_logo.dart';
 import 'package:provider/provider.dart';
-import 'package:universal_html/html.dart' as html;
 import 'package:flutter/material.dart';
-import 'package:ayash/constants.dart';
 part 'widgets/_navbar_desktop.dart';
 part 'widgets/_mobile_drawer.dart';
 part 'widgets/_body.dart';

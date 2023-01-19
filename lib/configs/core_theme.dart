@@ -3,9 +3,9 @@ import 'package:flutter/material.dart';
 const fontFamily = 'Poppins';
 
 final themeLight = ThemeData(
-  primaryColorLight: Color(0xFF89dad0),
+  primaryColorLight: const Color(0xFF89dad0),
   brightness: Brightness.light,
-  primaryColor: Color(0xFF89dad0),
+  primaryColor: const Color(0xFF89dad0),
   highlightColor: Colors.black,
   canvasColor: Colors.white,
   fontFamily: fontFamily,

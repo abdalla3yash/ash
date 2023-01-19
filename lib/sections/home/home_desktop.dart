@@ -1,6 +1,4 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
-import 'package:ayash/configs/core_theme.dart';
-import 'package:ayash/provider/app_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:ayash/animations/entrance_fader.dart';
 import 'package:ayash/configs/configs.dart';

@@ -3,12 +3,10 @@ import 'package:ayash/configs/configs.dart';
 import 'package:ayash/utils/about_utils.dart';
 import 'package:ayash/utils/utils.dart';
 import 'package:ayash/widget/custom_text_heading.dart';
-import 'package:lottie/lottie.dart';
 import 'package:universal_html/html.dart' as html;
 import 'package:flutter/material.dart';
 import 'package:ayash/constants.dart';
 import 'package:ayash/widget/about_me_data.dart';
-import 'package:ayash/widget/community_button.dart';
 import 'package:ayash/widget/tech_widget.dart';
 
 class AboutMobile extends StatelessWidget {
