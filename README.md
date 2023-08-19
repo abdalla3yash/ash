@@ -23,7 +23,7 @@ Is a multi-platform portfolio for developers available for mobile, windows and w
 
 ## 🔗 Useful link
 
-🌐 Web App: https://ayash.netlify.app
+🌐 Web App: https://ayash2.netlify.app
 
 
 ## 🔑 License
